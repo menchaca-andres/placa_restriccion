@@ -1,0 +1,18 @@
+# Procesamiento de imágenes / cámara
+opencv-python>=4.9.0.80
+
+# OCR para placas
+easyocr>=1.7.1
+torch>=2.0.0
+
+# Interfaz gráfica
+PyQt5>=5.15.9
+
+# Servidor web opcional
+Flask>=3.0.0
+
+# Empaquetado en ejecutable
+pyinstaller>=6.0.0   # Para generar .exe y .app
+
+# Utilidades adicionales
+numpy>=1.25.0
